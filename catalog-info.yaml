@@ -4,7 +4,8 @@ metadata:
   name: AW1070004_repotest
   annotations:
     github.com/project-slug: cristianmejia01/AW1070004_repotest
+    appcode: AW1070004
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
