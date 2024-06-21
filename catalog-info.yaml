@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AW1070004_repotest
+  annotations:
+    github.com/project-slug: cristianmejia01/AW1070004_repotest
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
